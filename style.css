@@ -1,0 +1,33 @@
+img {
+    display: none;
+}
+
+
+.container {
+    width: 500px;
+    align-content: center;
+}
+
+.grid {
+    height: 405px;
+    width: 405px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #dcd6bc;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 10px solid #dcd6bc;
+    margin-bottom: 10px;
+}
+
+
+.block {
+
+    height: 45px;
+    width: 45px;
+    border: 5px solid;
+    border-color: #f5f3eb #bab7a9 #bab7a9 #fff9db;
+    box-sizing: border-box;
+
+}
+
