@@ -30,3 +30,88 @@ img {
 
 }
 
+
+.bomb_block {
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/bomb.png");
+    box-sizing: border-box;
+
+}
+
+.block_1{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_1.png");
+    box-sizing: border-box;
+}
+
+.block_2{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_2.png");
+    box-sizing: border-box;
+}
+
+.block_3{
+
+     height: 45px;
+     width: 45px;
+     background-image: url("media/images/block_3.png");
+     box-sizing: border-box;
+ }
+
+.block_4{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_4.png");
+    box-sizing: border-box;
+}
+
+
+.block_5{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_5.png");
+    box-sizing: border-box;
+}
+
+.block_6{
+
+     height: 45px;
+     width: 45px;
+     background-image: url("media/images/block_6.png");
+     box-sizing: border-box;
+ }
+
+.block_7{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_7.png");
+    box-sizing: border-box;
+}
+
+.block_8{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/block_8.png");
+    box-sizing: border-box;
+}
+
+
+.safe_place{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/safe_place.png");
+    box-sizing: border-box;
+}
+
+
