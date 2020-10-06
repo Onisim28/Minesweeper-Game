@@ -114,4 +114,43 @@ img {
     box-sizing: border-box;
 }
 
+.flag{
+
+    height: 45px;
+    width: 45px;
+    background-image: url("media/images/flag.png");
+    box-sizing: border-box;
+}
+
+#nr_flags{
+
+    padding-left: 160px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-size: 20px;
+
+    color: rgb(127, 60, 9);
+
+}
+
+
+
+#you_won_text{
+
+
+    margin-top: -400px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-size: 40px;
+
+    color: rgb(127, 60, 9);
+
+
+
+}
+
 
