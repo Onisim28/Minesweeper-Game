@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307a3ef7-60ba-41c7-9587-b5a5f5fbeb1d" name="Default Changelist" comment="The game now creates a correct gameplay map and numbers &amp; bombs are spawned correctly">
+    <list default="true" id="307a3ef7-60ba-41c7-9587-b5a5f5fbeb1d" name="Default Changelist" comment="The Minesweeper game is finished. &#10;Now it is ready to be played.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <workItem from="1601411108589" duration="4794000" />
       <workItem from="1601449062630" duration="22312000" />
       <workItem from="1601558035480" duration="14596000" />
-      <workItem from="1601980536638" duration="12206000" />
+      <workItem from="1601980536638" duration="15610000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1600020227440</created>
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601416998133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="The Minesweeper game is finished. &#10;Now it is ready to be played.">
+      <created>1601993426600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601993426600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,17 +145,22 @@
     <MESSAGE value="git ignore" />
     <MESSAGE value="Added :&#10;- images needed for the game&#10;- cursor hover event on standard blocks&#10;- a list of 81 blocks in order to play the game" />
     <MESSAGE value="The game now creates a correct gameplay map and numbers &amp; bombs are spawned correctly" />
-    <option name="LAST_COMMIT_MESSAGE" value="The game now creates a correct gameplay map and numbers &amp; bombs are spawned correctly" />
+    <MESSAGE value="The Minesweeper game is finished. &#10;Now it is ready to be played." />
+    <option name="LAST_COMMIT_MESSAGE" value="The Minesweeper game is finished. &#10;Now it is ready to be played." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1601993545817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601993545817" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601986612864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601986612864" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601417097767">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601993532128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601417097767" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601993532128" />
     <state x="209" y="33" key="new project wizard" timestamp="1600263108571">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

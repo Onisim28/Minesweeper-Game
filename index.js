@@ -247,6 +247,17 @@ function addFlag(i) { // add or remove a flag
 
     checks_forWin();
 
+    if (you_won) {
+
+        for (let j = 0; j < number_of_blocks; j++) {
+            which_number_block(which_numberBlock[j], j);
+        }
+
+        youWon_text.innerHTML = 'CONGRATULATIONS! YOU WON!';
+
+    }
+
+
 }
 
 
@@ -659,18 +670,22 @@ function simplify_equation(i) { // function that I need to insert multiple times
 
 }
 
-function checks_forWin() { //Check if the user won the game
+function checks_forWin() { //Checks if the user won the game
 
     for (let i = 0; i < number_of_blocks; i++) {
 
         let aux = document.getElementById(i);
 
 
-        if (aux.classList.contains('bomb_block'))
-            continue;
-
-        if (aux.classList.contains('standard_block'))
+        if ((which_numberBlock[i] === -1) && (aux.classList.contains('bomb_block'))) {
             break;
+        }
+
+
+        if (aux.classList.contains('standard_block')) {
+            break;
+
+        }
 
         if (i === number_of_blocks - 1)
             you_won = true;
